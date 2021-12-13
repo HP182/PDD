@@ -202,7 +202,7 @@ font-display: 12px;
 #home::before{
     content: "";
     position: absolute;
-    background: url(/img/polu-min.jpg) no-repeat center center/cover;
+    background: url(/img/abc.jpg) no-repeat center center/cover;
     height: 723px;
     top: 0px;
     left: 0px;
